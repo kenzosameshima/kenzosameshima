@@ -1,4 +1,13 @@
 ## Olá, sou Kenzo Sameshima!
+
+<div style="display:flex; justify-content:space-around;">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzosameshima&theme=tokyonight)
+![Stats Lenguage](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzosameshima&theme=blue-green)
+</div>
+
+##
+
 - 🖥️ Desenvolvendo principalmente com Java e Python
 - 🔍 Aprendendo desenvolvimento front-end e começando banco de dados
   
