@@ -1,31 +1,43 @@
-<h1>Hello, World! I'm Kenzo, a Brazilian developer! 👋</h1>
+# Kenzo Sameshima
 
-<div style="display:flex; justify-content:space-around;">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzosameshima&theme=tokyonight)
-![Stats Lenguage](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzosameshima&theme=blue-green)
-</div>
+**Software Developer | Brazil**
 
-<br/>
+Welcome to my GitHub profile! I'm a passionate developer focused on building efficient, well-engineered software solutions. I'm actively pursuing opportunities to grow my skills and contribute to meaningful projects.
 
-<h2>About me</h2>
+---
 
-📚 I'm currently learning C and C++  
-🎯 Aiming to get an internship and keep studying to be an excellent software developer  
-🎮 I enjoy listening to music and playing some games in my free time
+## 🎯 About Me
 
-<br/>
+- 🎓 Building expertise in systems programming, physics simulation, and performance optimization with C/C++
+- 🐍 Experienced with Python for cryptography, algorithm implementation, and automation
+- 💼 Seeking internship opportunities in software engineering or data analysis
+- 🚀 Passionate about optimization challenges: from orbital mechanics to sorting algorithm benchmarks
+- 🎮 Music enthusiast and casual gamer in my free time
+- 📍 Based in Brazil
 
-<h2>🖥️ Skills</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Node.js-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Python-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Java-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="C-Language-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align="center" alt="C-plus-plus-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="MySQL-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Git-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+---
+
+## 💻 Technical Skills
+
+**Languages:**  
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+
+**Frameworks & Tools:**  
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzosameshima&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzosameshima&theme=tokyonight)
+
+---
+
+**Open to internship opportunities and collaboration!**
