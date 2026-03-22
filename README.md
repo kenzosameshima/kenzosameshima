@@ -2,42 +2,72 @@
 
 **Software Developer | Brazil**
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building efficient, well-engineered software solutions. I'm actively pursuing opportunities to grow my skills and contribute to meaningful projects.
+I build efficient, reliable software with a strong focus on systems programming, simulation, and performance-oriented development. I am currently looking for internship opportunities where I can contribute to real-world engineering challenges while continuing to grow as a developer.
 
----
+## Professional Summary
 
-## 🎯 About Me
+- Developing solid expertise in C and C++ for systems-level programming and computational problem solving.
+- Using Python for cryptography-related projects, algorithm implementation, and automation workflows.
+- Interested in software engineering and data analysis internships.
+- Motivated by performance optimization, numerical simulation, and algorithmic efficiency.
 
-- 🎓 Building expertise in systems programming, physics simulation, and performance optimization with C/C++
-- 🐍 Experienced with Python for cryptography, algorithm implementation, and automation
-- 💼 Seeking internship opportunities in software engineering or data analysis
-- 🚀 Passionate about optimization challenges: from orbital mechanics to sorting algorithm benchmarks
-- 🎮 Music enthusiast and casual gamer in my free time
-- 📍 Based in Brazil
+## Featured Projects
 
----
+### Gravity Simulation (C++ / OpenGL)
+A 3D N-body gravitational simulator with real-time GPU-accelerated rendering and dual solver modes: direct pairwise O(n^2) and Barnes-Hut O(n log n).
 
-## 💻 Technical Skills
+- Focus: orbital mechanics, numerical stability (Velocity Verlet), and scalable physics computation
+- Highlights: enables exact few-body runs and larger approximate simulations with explicit performance/accuracy trade-offs
+- Stack: C++, OpenGL, GLFW, GLEW, GLM
+- Repository: https://github.com/kenzosameshima/gravity-sim
 
-**Languages:**  
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+### Library Management System (SGBV)
+A full-stack MVP designed with strong backend security practices for library circulation workflows, including authentication, loans, reservations, fines, and role-based administration.
 
-**Frameworks & Tools:**  
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
+- Focus: secure API design, circulation workflow consistency, and maintainable layered architecture
+- Highlights: implements HttpOnly cookie auth, CSRF protection, rate limiting, and strict backend input validation
+- Stack: Node.js, TypeScript, Express, React, PostgreSQL
+- Repository: https://github.com/kenzosameshima/sgbv-library-management-system
 
-## 📊 GitHub Statistics
+### Sorting Algorithm Analysis Program (C)
+A benchmarking and analysis program that compares sorting algorithms across varied input profiles and data sizes.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzosameshima&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzosameshima&theme=tokyonight)
+- Focus: empirical validation of algorithmic complexity, runtime behavior, and low-level optimization
+- Highlights: contrasts theoretical complexity with measured runtime behavior to expose practical algorithmic trade-offs
+- Stack: C
+- Repository: https://github.com/kenzosameshima/sorting-benchmark
 
----
+### Enigma Machine Replica (Python)
+A modular software model inspired by the historical Enigma machine, reproducing rotor stepping, plugboard mapping, and reflector-based encryption.
 
-**Open to internship opportunities and collaboration!**
+- Focus: classical cryptography concepts, deterministic transformation flow, and testable logic
+- Stack: Python
+- Repository: https://github.com/kenzosameshima/enigma-machine-python
+
+## Technical Skills
+
+**Languages**
+
+- **Core:** C, C++, Python
+- **Familiar:** JavaScript, TypeScript, Java, Go
+
+**Tools and Technologies**
+
+- Git, MySQL, PostgreSQL, OpenGL
+
+**Web**
+
+- HTML, CSS, React, Node.js
+
+**Open to internship opportunities and collaboration.**
+
+## Resumo
+
+Desenvolvedor de software com foco em C/C++ e Python, busco oportunidades de estágio em Engenharia de Software ou Análise de Dados.
+
+Projetos em destaque:
+
+- Simulador de Gravidade 3D em C++/OpenGL
+- Sistema de Gerenciamento de Biblioteca (SGBV)
+- Análise de Algoritmos de Ordenação em C
+- Réplica da Maquina Enigma em Python
