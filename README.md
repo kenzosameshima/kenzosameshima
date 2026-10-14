@@ -1,73 +1,67 @@
-# Kenzo Sameshima
+🇺🇸 English · [🇧🇷 Português](README.pt-br.md)
 
-**Software Developer | Brazil**
+# Hi, I'm Kenzo
 
-I build efficient, reliable software with a strong focus on systems programming, simulation, and performance-oriented development. I am currently looking for internship opportunities where I can contribute to real-world engineering challenges while continuing to grow as a developer.
+**Software developer from Brazil, curious about how computers really work.**
 
-## Professional Summary
+I build things to understand them: emulators, simulators, embedded systems and full-stack apps, mostly in C/C++, Rust and Python. I'm looking for an **internship** where I can learn from a real team and work on real engineering problems.
 
-- Developing solid expertise in C and C++ for systems-level programming and computational problem solving.
-- Using Python for cryptography-related projects, algorithm implementation, and automation workflows.
-- Interested in software engineering and data analysis internships.
-- Motivated by performance optimization, numerical simulation, and algorithmic efficiency.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-62b211264/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzosameshima@gmail.com)
 
-## Featured Projects
+## Featured projects
 
-### Gravity Simulation (C++ / OpenGL)
-A 3D N-body gravitational simulator with real-time GPU-accelerated rendering and dual solver modes: direct pairwise O(n^2) and Barnes-Hut O(n log n).
+### [Game Boy Emulator](https://github.com/kenzosameshima/gameboy-emulator)
+Game Boy emulator in C23 that passes all 94 DMG Mooneye acceptance ROMs, plus Blargg's CPU, memory-timing and sound tests and the dmg-acid2 picture test. Emulates the CPU, graphics, audio, timers and the common cartridge types, with an optional SDL2 front end for playing games.
+`C23` `SDL2`
 
-- Focus: orbital mechanics, numerical stability (Velocity Verlet), and scalable physics computation
-- Highlights: enables exact few-body runs and larger approximate simulations with explicit performance/accuracy trade-offs
-- Stack: C++, OpenGL, GLFW, GLEW, GLM
-- Repository: https://github.com/kenzosameshima/gravity-sim
+### [PM2.5 Air Quality Monitor](https://github.com/kenzosameshima/pm25-monitor-esp32)
+End-to-end urban air-quality system, built as my Computer Science thesis (UNIP, 2026). ESP32 sensor nodes send one-minute averages over HTTPS to an API that stores the data, sends Telegram alerts and serves a dashboard and an Android app. Includes an offline evaluation of forecasting models.
+`C++` `Python` `FastAPI` `Kotlin`
 
-### Library Management System (SGBV)
-A full-stack MVP designed with strong backend security practices for library circulation workflows, including authentication, loans, reservations, fines, and role-based administration.
+### [Orrery-GL](https://github.com/kenzosameshima/orrery-gl)
+Real-time 3D simulation of a 31-body Solar System. Fixed-timestep leapfrog integration, GPU-instanced rendering, and a grid that visualizes gravitational curvature (Flamm's paraboloid).
+`C++` `OpenGL` `GLFW` `GLM`
 
-- Focus: secure API design, circulation workflow consistency, and maintainable layered architecture
-- Highlights: implements HttpOnly cookie auth, CSRF protection, rate limiting, and strict backend input validation
-- Stack: Node.js, TypeScript, Express, React, PostgreSQL
-- Repository: https://github.com/kenzosameshima/sgbv-library-management-system
+### [Library Management System (SGBV)](https://github.com/kenzosameshima/sgbv-library-management-system)
+Full-stack app for loans, reservations, fines and role-based administration. Security-focused backend: HttpOnly cookie auth, CSRF protection, rate limiting and strict input validation.
+`TypeScript` `Node.js` `React` `PostgreSQL`
 
-### Sorting Algorithm Analysis Program (C)
-A benchmarking and analysis program that compares sorting algorithms across varied input profiles and data sizes.
+### [Sorting Algorithm Benchmark](https://github.com/kenzosameshima/sorting-benchmark)
+Compares sorting algorithms across input profiles and sizes, to see where measured runtime differs from theoretical complexity.
+`C`
 
-- Focus: empirical validation of algorithmic complexity, runtime behavior, and low-level optimization
-- Highlights: contrasts theoretical complexity with measured runtime behavior to expose practical algorithmic trade-offs
-- Stack: C
-- Repository: https://github.com/kenzosameshima/sorting-benchmark
+## More projects
 
-### Enigma Machine Replica (Python)
-A modular software model inspired by the historical Enigma machine, reproducing rotor stepping, plugboard mapping, and reflector-based encryption.
+- [sudoku-wasm](https://github.com/kenzosameshima/sudoku-wasm): browser Sudoku with solver, generator, difficulty rater and hints in Rust compiled to WebAssembly; no backend.
+- [gym-management-system](https://github.com/kenzosameshima/gym-management-system): Dockerized full-stack platform for students, plans, payments and access control (FastAPI, PostgreSQL, React).
+- [enigma-machine-python](https://github.com/kenzosameshima/enigma-machine-python): testable model of the Enigma machine (rotors, plugboard, reflector).
+- [samsung-calculator-clone](https://github.com/kenzosameshima/samsung-calculator-clone): Samsung-style scientific calculator in vanilla HTML/CSS/JS.
 
-- Focus: classical cryptography concepts, deterministic transformation flow, and testable logic
-- Stack: Python
-- Repository: https://github.com/kenzosameshima/enigma-machine-python
+## Skills
 
-## Technical Skills
+**Core**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
 
-**Languages**
+**Also used**<br>
+<img src="https://skillicons.dev/icons?i=rust,kotlin" />
 
-- **Core:** C, C++, Python
-- **Familiar:** JavaScript, TypeScript, Java, Go
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
-**Tools and Technologies**
+**Web**<br>
+<img src="https://skillicons.dev/icons?i=html,css,ts,js,react,vite" />
 
-- Git, MySQL, PostgreSQL, OpenGL
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-**Web**
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
 
-- HTML, CSS, React, Node.js
+**Systems and embedded**<br>
+<img src="https://skillicons.dev/icons?i=wasm" /><br>
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-1B6AC6?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-**Open to internship opportunities and collaboration.**
-
-## Resumo
-
-Desenvolvedor de software com foco em C/C++ e Python, busco oportunidades de estágio em Engenharia de Software ou Análise de Dados.
-
-Projetos em destaque:
-
-- Simulador de Gravidade 3D em C++/OpenGL
-- Sistema de Gerenciamento de Biblioteca (SGBV)
-- Análise de Algoritmos de Ordenação em C
-- Réplica da Maquina Enigma em Python
+Open to internships and collaboration.
